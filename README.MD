@@ -167,4 +167,4 @@ GRANT ALL ON SCHEMA public TO public;
 
 ---
 
-Made with ❤️ by Flatlogic Platform.
+Made with ❤️ 
